@@ -4,6 +4,9 @@ html, body {
   min-width: 900px;
   line-height: 14px;
   font-size: 14px;
+  overflow-x: hidden;
+  overflow: scroll;
+  scroll-behavior: smooth;
 }
 
 * {
